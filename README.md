@@ -4,6 +4,8 @@ This repository contains source code and documentation for R script that was imp
 assignment for Coursera Data Science - Getting And Cleaning data. Main purpose of this script is to create a tidy 
 dataset of multiple data source files. 
 
+Script: run_analysis.R
+
 More information about the source data is available at: [Human Activity Information Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ##Files
