@@ -1,9 +1,5 @@
 ## run_analysis.R - course assignment for Coursera Data Science - Getting and Cleaning Data
 
-## set working dir
-setwd("/home/jape/coursera/3_Getting_And_Cleaning_Data/getting_and_cleaning_data/UCI HAR Dataset")
-
-
 ## 1. Merges the training and the test sets to create one data set.
 ###################################################################
 
